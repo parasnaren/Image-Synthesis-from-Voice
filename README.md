@@ -1,4 +1,4 @@
-# Image-synthesis-from-text
+# Image-synthesis-from-voice
 
 Synthesis of images, primarily of birds from textual description using GANs
 
